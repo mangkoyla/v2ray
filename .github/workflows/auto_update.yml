@@ -49,7 +49,7 @@ jobs:
         git add ./merge
         git add v2ray
         git add clash.yaml
-        git commit -m "merge: $(date '+%Y-%m-%d %H:%M:%S') 合并节点"
+        git commit -m "merge: $(date '+%Y-%m-%d %H:%M:%S') Merge nodes"
     - name: Push
       uses:  ad-m/github-push-action@master
       with:
@@ -58,25 +58,4 @@ jobs:
       run: |                 
         git pull origin master
         git add list.json
-        (git commit -m "update: $(date '+%Y-%m-%d %H:%M:%S') 更新链接") || true
-    - name: GitPush
-      uses:  ad-m/github-push-action@master
-      with:
-        branch: master
-  update_branch:
-    needs: [to_gitee, to_gitlab]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: UpdateBranch
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull origin master
-          git checkout --orphan latest_branch
-          git add -A
-          git commit -am "update: $(date '+%Y-%m-%d %H:%M:%S')"
-          git branch -D master
-          git branch -m master
-          git push -f origin master
+        (git commit -m "update: $(date '+%Y-%m-%d %H:%M:%S') update link") || true
