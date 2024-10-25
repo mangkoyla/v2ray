@@ -13,7 +13,7 @@ proxies:
 - {name: 🏁RELAY-104.20.25.146-011, server: 104.20.25.146, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.20.25.146}}
 - {name: 🇺🇸US-38.114.114.207-012, server: 38.114.114.207, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
 - {name: 🏁RELAY-172.64.198.249-013, server: 172.64.198.249, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 172.64.198.249}}
-- {name: 🇺🇸US-54.214.204.9-014, server: fuck5.mmmmmmmmmm.cfd, port: 59019, type: ss, cipher: chacha20-ietf-poly1305, password: 2062a5ca-a34e-47bf-9810-db91185f07fc}
+- {name: 🇺🇸US-34.216.180.31-014, server: fuck5.mmmmmmmmmm.cfd, port: 59019, type: ss, cipher: chacha20-ietf-poly1305, password: 2062a5ca-a34e-47bf-9810-db91185f07fc}
 - {name: 🏁RELAY-104.19.21.230-015, server: 104.19.21.230, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.21.230}}
 - {name: 🏁RELAY-104.19.45.47-016, server: 104.19.45.47, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.45.47}}
 - {name: 🏁RELAY-104.18.57.111-017, server: 104.18.57.111, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.18.57.111}}
@@ -29,7 +29,7 @@ proxies:
 - {name: 🏁RELAY-104.19.45.15-027, server: 104.19.45.15, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 104.19.45.15}}
 - {name: 🇦🇺AU-103.224.212.217-028, server: pf.napsternetv.com, port: 40046, type: vmess, uuid: 2F094845-E2BD-EBF7-DEB7-995992436FAF, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: true, ws-headers: {Host: pf.napsternetv.com}}
 - {name: 🇺🇸US-45.33.59.108-029, server: 45.33.59.108, port: 23910, type: ss, cipher: aes-256-gcm, password: YlFiRlA1RW1FUlRsMGxJbUZRZTEwNXVMU0hEdHdaVDZ0ckVuMHROZ2U0djhRTXlkVlZpQmtLTUxEV0FHZkszRQ==}
-- {name: 🇺🇸US-216.24.57.252-030, server: xxrenderxx.onrender.com, port: 443, type: vmess, uuid: 60d95d79-0355-4593-a669-933c29cf9e64, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /60d95d79-0355-4593-a669-933c29cf9e64, tls: true, ws-headers: {Host: xxrenderxx.onrender.com}}
+- {name: 🇺🇸US-216.24.57.4-030, server: xxrenderxx.onrender.com, port: 443, type: vmess, uuid: 60d95d79-0355-4593-a669-933c29cf9e64, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /60d95d79-0355-4593-a669-933c29cf9e64, tls: true, ws-headers: {Host: xxrenderxx.onrender.com}}
 - {name: 🏁RELAY-141.101.114.120-031, server: 141.101.114.120, port: 443, type: vmess, uuid: 33aa57df-1c93-4318-9fce-e850437ee781, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /dongtaiwang.com, tls: true, ws-headers: {Host: lg1.cfcdn3.xyz}}
 - {name: 🇺🇸US-38.114.114.19-032, server: 38.114.114.19, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: 🇨🇳CN-223.111.122.199-033, server: 223.111.122.199, port: 38080, type: vmess, uuid: 6248895b-4255-4f07-9479-d198bc1eb8db, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /guolicheng/us2, tls: false, ws-headers: {Host: www.189.cn}}
@@ -89,7 +89,7 @@ proxies:
 - {name: 🇦🇶NOWHERE-0.0.0.0-087, server: zfd-moblev2.gatknqh.cn, port: 16116, type: vmess, uuid: f1d39fe1-bfa3-34ff-86a2-29250af03183, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: zfd-moblev2.gatknqh.cn}}
 - {name: 🇦🇶NOWHERE-0.0.0.0-088, server: zfd-moblev2.gatknqh.cn, port: 16116, type: vmess, uuid: f1d39fe1-bfa3-34ff-86a2-29250af03183, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: zfd-moblev2.gatknqh.cn}}
 - {name: 🇦🇶NOWHERE-0.0.0.0-089, server: download2tw.windowsupdate.lol, port: 443, type: trojan, password: 6248895b-4255-4f07-9479-d198bc1eb8db, sni: dc1-download.windowsupdate1.com, skip-cert-verify: true}
-- {name: 🇩🇪DE-46.82.174.69-090, server: data-hk-v2.shwjfkw.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /hls/cctv5phd.m3u8, tls: false, ws-headers: {Host: data-hk-v2.shwjfkw.cn}}
+- {name: 🇺🇸US-8.7.198.46-090, server: data-hk-v2.shwjfkw.cn, port: 50205, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /hls/cctv5phd.m3u8, tls: false, ws-headers: {Host: data-hk-v2.shwjfkw.cn}}
 - {name: 🇨🇳CN-221.181.185.171-091, server: 221.181.185.171, port: 16302, type: vmess, uuid: f1d39fe1-bfa3-34ff-86a2-29250af03183, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: cert.bitbyte.one}}
 - {name: 🇨🇳CN-221.181.185.171-092, server: 221.181.185.171, port: 16272, type: vmess, uuid: f1d39fe1-bfa3-34ff-86a2-29250af03183, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 65-108-102-32.nhost.00cdn.com}}
 - {name: 🇨🇳CN-221.181.185.171-093, server: 221.181.185.171, port: 16260, type: vmess, uuid: f1d39fe1-bfa3-34ff-86a2-29250af03183, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 65-108-102-32.nhost.00cdn.com}}
@@ -98,16 +98,16 @@ proxies:
 - {name: 🇳🇱NL-185.242.86.156-096, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
 - {name: 🇹🇷TR-202.78.162.5-097, server: 202.78.162.5, port: 443, type: vmess, uuid: 2ff97c6d-8557-42a4-b43f-19c77c5959ea, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: irsoft.sytes.net}}
 - {name: 🇹🇷TR-202.78.162.5-098, server: 202.78.162.5, port: 443, type: vmess, uuid: 118287d2-e968-42e1-80d0-12fa2f5d38d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: sahand.serveminecraft.net}}
-- {name: 🏁RELAY-172.67.215.103-099, server: www.darkroom.lol, port: 8080, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: www.darkroom.lol}}
+- {name: 🏁RELAY-104.21.61.214-099, server: www.darkroom.lol, port: 8080, type: vmess, uuid: 22826b44-5c1a-4b4b-dbaa-83a2e8bd95f0, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: www.darkroom.lol}}
 - {name: 🇫🇷FR-193.243.147.128-100, server: 193.243.147.128, port: 40368, type: ss, cipher: aes-256-gcm, password: 7BcLdsO1WweoGD0X}
-- {name: 🏁RELAY-172.67.161.114-101, server: server31.beheshtbaneh.com, port: 8880, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server31.beheshtbaneh.com}}
+- {name: 🏁RELAY-104.21.82.183-101, server: server31.beheshtbaneh.com, port: 8880, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server31.beheshtbaneh.com}}
 - {name: 🇦🇶NOWHERE-0.0.0.0-102, server: data-us-v1.shwjfkw.cn, port: 20401, type: vmess, uuid: b1478e24-4916-3abe-8f17-15931012ecbe, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /debian, tls: false, ws-headers: {Host: data-us-v1.shwjfkw.cn}}
-- {name: 🇨🇳CN-120.238.122.159-103, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
+- {name: 🇨🇳CN-120.238.122.160-103, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
 - {name: 🏁RELAY-104.21.82.183-104, server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server26.beheshtbaneh.com}}
 - {name: 🇹🇷TR-202.78.162.5-105, server: 202.78.162.5, port: 443, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: pendar.onthewifi.com}}
-- {name: 🇨🇳CN-120.238.122.160-106, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
+- {name: 🇨🇳CN-120.238.122.159-106, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
 - {name: 🇨🇳CN-120.238.122.159-107, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
-- {name: 🇦🇶FASTLY-151.101.0.144-108, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /77848824, tls: true, ws-headers: {Host: zheshiscp.com}}
+- {name: 🇦🇶FASTLY-151.101.64.144-108, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /77848824, tls: true, ws-headers: {Host: zheshiscp.com}}
 - {name: 🇦🇶NOWHERE-0.0.0.0-109, server: server32.beheshtbaneh.com, port: 8880, type: vmess, uuid: 044ba8ed-7285-472a-bc14-fb91dc6be4c9, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server32.beheshtbaneh.com}}
 - {name: 🇸🇬SG-13.213.46.196-110, server: 13.213.46.196, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: 🇯🇵JP-54.199.83.239-111, server: 54.199.83.239, port: 2333, type: ss, cipher: aes-256-cfb, password: doub.io}
@@ -117,111 +117,25 @@ proxies:
 - {name: 🇦🇶NOWHERE-0.0.0.0-115, server: aaaa.wxx.gay, port: 443, type: vmess, uuid: 8237ec34-143a-11ee-8019-000017022008, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /look, tls: true, ws-headers: {Host: aaaa.wxx.gay}}
 - {name: 🇸🇬SG-159.223.94.156-116, server: 159.223.94.156, port: 80, type: vmess, uuid: 533724ad-58ef-4147-88dc-9da523c15fc4, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /anti13.zingfast.vn, tls: false, ws-headers: {Host: 159.223.94.156}}
 - {name: 🇦🇶NOWHERE-0.0.0.0-117, server: hkd1.quickerlink.xyz, port: 443, type: vmess, uuid: 3853a2ab-6bec-4503-89b9-d3cbcc6b69c9, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /h6jr23x9h3lqiitg, tls: true, ws-headers: {Host: hkd1.quickerlink.xyz}}
-- {name: 🇱🇹LT-45.87.175.164-118, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-- {name: 🇺🇸US-38.75.136.21-119, server: 38.75.136.21, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: 🇺🇸US-38.114.114.46-120, server: 38.114.114.46, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇺🇸US-37.19.198.244-121, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-- {name: 🇻🇳VN-36.50.134.26-122, server: 36.50.134.26, port: 443, type: trojan, password: 94d219c9-1afc-4d42-b090-8b3794764380, skip-cert-verify: true}
-- {name: 🇺🇸US-38.114.114.46-123, server: 38.114.114.46, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-- {name: 🇹🇷TR-202.78.162.5-124, server: 202.78.162.5, port: 443, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: pendar.onthewifi.com}}
-- {name: 🏁RELAY-104.21.238.101-125, server: 104.21.238.101, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ip3.6016725.xyz}}
-- {name: 🇺🇸US-38.75.137.42-126, server: 38.75.137.42, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-- {name: 🇺🇸US-38.114.114.46-127, server: 38.114.114.46, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
-- {name: 🇺🇸US-167.88.61.159-128, server: 167.88.61.159, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-- {name: 🏁RELAY-104.19.42.49-129, server: 104.19.42.49, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇸🇪SE-13.51.53.223-130, server: 13.51.53.223, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇺🇸US-38.75.137.42-131, server: 38.75.137.42, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🇺🇸US-38.114.114.46-132, server: 38.114.114.46, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 🇯🇵JP-61.120.9.18-133, server: 61.120.9.18, port: 43720, type: vmess, uuid: f248d0e9-19f7-ea7f-6659-17a610dfe8d6, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 61.120.9.18}}
-- {name: 🇺🇸US-38.75.136.21-134, server: 38.75.136.21, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🇱🇹LT-45.87.175.199-135, server: 45.87.175.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-- {name: 🇦🇶FASTLY-151.101.64.144-136, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /77848824, tls: true, ws-headers: {Host: zheshiscp.com}}
-- {name: 🇳🇱NL-185.236.233.111-137, server: 185.236.233.111, port: 2053, type: trojan, password: ba74833c-8c0f-4dcd-8cbc-13e3c32d3765, skip-cert-verify: true}
-- {name: 🏁RELAY-195.85.59.95-138, server: go.alipay.ovh, port: 80, type: vmess, uuid: a94171be-b387-4f02-a5ef-a1b4b7a26c04, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/aries?ed=2048", tls: false, ws-headers: {Host: open.alipay.ovh}}
-- {name: 🇺🇸US-38.75.136.21-139, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 🏁RELAY-104.16.68.38-140, server: 104.16.68.38, port: 8880, type: vmess, uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ivideos.sbs/linkws, tls: false, ws-headers: {Host: late-wave-1d0a.lesijo3430.workers.dev}}
-- {name: 🇫🇷FR-54.37.12.70-141, server: 54.37.12.70, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🇺🇸US-38.99.82.203-142, server: 38.99.82.203, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvws, tls: true, ws-headers: {Host: 38.99.82.203}}
-- {name: 🇺🇸US-38.75.136.21-143, server: 38.75.136.21, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🏁RELAY-172.67.219.26-144, server: ds.nurul.homes, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: ds.nurul.homes}}
-- {name: 🏁RELAY-172.64.167.35-145, server: 172.64.167.35, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇺🇸US-38.114.114.46-146, server: 38.114.114.46, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-- {name: 🇫🇷FR-23.162.152.177-147, server: 23.162.152.177, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: 23.162.152.177}}
-- {name: 🇨🇳CN-120.238.122.159-148, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
-- {name: 🏁RELAY-104.22.36.243-149, server: icook.tw, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇺🇸US-38.114.114.46-150, server: 38.114.114.46, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🇺🇸US-38.114.114.46-151, server: 38.114.114.46, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🏁RELAY-172.64.166.28-152, server: 172.64.166.28, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🇺🇸US-38.75.137.42-153, server: 38.75.137.42, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 🇺🇸US-38.75.136.21-154, server: 38.75.136.21, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: 🇫🇷FR-193.243.147.128-155, server: 193.243.147.128, port: 40368, type: ss, cipher: aes-256-gcm, password: 7BcLdsO1WweoGD0X}
-- {name: 🏁RELAY-172.67.160.33-156, server: b.tampay.info, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: b.tampay.info}}
-- {name: 🇺🇸US-38.114.114.46-157, server: 38.114.114.46, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇨🇦CA-149.22.95.183-158, server: 149.22.95.183, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-- {name: 🇬🇧GB-212.102.53.197-159, server: 212.102.53.197, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
-- {name: 🇺🇸US-169.197.141.84-160, server: 169.197.141.84, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇺🇸US-38.75.137.42-161, server: 38.75.137.42, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇺🇸US-167.88.61.111-162, server: 167.88.61.111, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 🇺🇸US-38.114.114.46-163, server: 38.114.114.46, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-- {name: 🏁RELAY-104.19.45.42-164, server: 104.19.45.42, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇺🇸US-38.114.114.46-165, server: 38.114.114.46, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇺🇸US-38.75.136.21-166, server: 38.75.136.21, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🏁RELAY-172.67.142.84-167, server: ddd.zcr07.DNS-DYNAMic.neT, port: 443, type: vmess, uuid: f584de15-2034-4170-a723-f48c2bae5e0f, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: "/afrhms16v.bestxray.buzz:443/linkws", tls: true, ws-headers: {Host: ddd.zcr07.DNS-DYNAMic.neT}}
-- {name: 🏁RELAY-104.19.38.10-168, server: 104.19.38.10, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip6.6929198.xyz}}
-- {name: 🇹🇼TW-111.243.66.217-169, server: tw1-vds7.anyhk.co, port: 30443, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
-- {name: 🇨🇳CN-113.31.144.105-170, server: gdgs.tarioblink.me, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
-- {name: 🇨🇳CN-113.31.144.105-171, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
-- {name: 🇨🇳CN-113.31.144.105-172, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
-- {name: 🇨🇳CN-223.111.122.201-173, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
-- {name: 🇨🇳CN-113.31.144.105-174, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
-- {name: 🏁RELAY-104.21.82.183-176, server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server26.beheshtbaneh.com}}
-- {name: 🇨🇦CA-23.162.200.227-177, server: 23.162.200.227, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /linkvws, tls: true, ws-headers: {Host: 23.162.200.227}}
-- {name: 🏁RELAY-172.64.166.22-178, server: 172.64.166.22, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇺🇸US-38.75.136.21-179, server: 38.75.136.21, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇮🇪IE-3.255.71.193-180, server: 3.255.71.193, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🇨🇳CN-120.238.122.160-181, server: service.ouluyun9803.com, port: 20005, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
-- {name: 🏁RELAY-172.64.167.10-182, server: 172.64.167.10, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🇫🇷FR-51.44.61.98-183, server: 51.44.61.98, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🏁RELAY-172.64.167.44-184, server: 172.64.167.44, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇱🇹LT-45.87.175.171-185, server: beesyar.org, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u}
-- {name: 🇺🇸US-38.114.114.46-186, server: 38.114.114.46, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: 🇺🇸US-38.75.136.21-187, server: 38.75.136.21, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-- {name: 🏁RELAY-104.21.238.101-188, server: 104.21.238.101, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ip3.6016725.xyz}}
-- {name: 🏁RELAY-172.64.167.35-189, server: 172.64.167.35, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇩🇪DE-23.157.88.33-190, server: 23.157.88.33, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: 23.157.88.33}}
-- {name: 🇺🇸US-38.75.136.21-191, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 🏁RELAY-172.67.162.196-192, server: c.pelang.org, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 1, cipher: auto, skip-cert-verify: true, network: ws, ws-path: linkvws, tls: true, ws-headers: {Host: c.pelang.org}}
-- {name: 🇺🇸US-38.75.136.21-193, server: 38.75.136.21, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-- {name: 🇺🇸US-38.75.136.21-194, server: 38.75.136.21, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🇺🇸US-38.75.137.42-195, server: 38.75.137.42, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🏁RELAY-172.64.167.5-196, server: 172.64.167.5, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🇺🇸US-38.75.136.21-197, server: 38.75.136.21, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-- {name: 🇺🇸US-38.114.114.46-198, server: 38.114.114.46, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🏁RELAY-104.16.68.38-199, server: 104.16.68.38, port: 8880, type: vmess, uuid: 441da342-ce90-441e-bff9-d2ceb55e68ca, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ivideos.sbs/linkws, tls: false, ws-headers: {Host: late-wave-1d0a.lesijo3430.workers.dev}}
-- {name: 🇺🇸US-38.75.136.21-200, server: 38.75.136.21, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🏁RELAY-172.64.166.28-201, server: 172.64.166.28, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🏁RELAY-104.26.5.66-202, server: 104.26.5.66, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip2.6016725.xyz}}
-- {name: 🇺🇸US-38.114.114.46-203, server: 38.114.114.46, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-- {name: 🇨🇳CN-183.236.48.163-204, server: 183.236.48.163, port: 58831, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /lfljvws, tls: false, ws-headers: {Host: rac.679888.xyz}}
-- {name: 🇺🇸US-38.114.114.46-205, server: 38.114.114.46, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🇺🇸US-38.114.114.46-206, server: 38.114.114.46, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🇨🇳CN-120.238.122.159-207, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
-- {name: 🇺🇸US-38.75.136.21-208, server: 38.75.136.21, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🇺🇸US-38.75.137.42-209, server: 38.75.137.42, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
-- {name: 🇱🇹LT-45.87.175.164-210, server: 45.87.175.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 1RWwXhwfAB5gAEozU4G2Pg}
-- {name: 🇺🇸US-38.114.114.46-211, server: 38.114.114.46, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: 🇳🇱NL-185.236.233.111-212, server: 185.236.233.111, port: 2053, type: trojan, password: ba74833c-8c0f-4dcd-8cbc-13e3c32d3765, skip-cert-verify: true}
-- {name: 🇺🇸US-169.197.141.84-213, server: 169.197.141.84, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
-- {name: 🇺🇸US-38.75.136.21-214, server: 38.75.136.21, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: 🇨🇳CN-120.232.153.40-215, server: 120.232.153.40, port: 35601, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /ivideos.sbs/linkws, tls: false, ws-headers: {Host: 120.232.153.40}}
-- {name: 🇦🇶FASTLY-151.101.194.133-216, server: 151.101.194.133, port: 443, type: vmess, uuid: a888b89a-08ac-40e6-8ad7-cfce9569f967, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /racevpn, tls: true, ws-headers: {Host: gerMAnyISvP.iR}}
-- {name: 🇦🇶FASTLY-151.101.2.133-217, server: 151.101.2.133, port: 80, type: vmess, uuid: a888b89a-08ac-40e6-8ad7-cfce9569f967, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /racevpn, tls: false, ws-headers: {Host: gerMAnyISvP.iR}}
-- {name: 🇺🇸US-38.75.136.21-218, server: 38.75.136.21, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: 🏁RELAY-104.17.106.151-219, server: 104.17.106.151, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🏁RELAY-104.19.47.65-220, server: 104.19.47.65, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /github.com/Alvin9999, tls: false, ws-headers: {Host: ip15.6016725.xyz}}
-- {name: 🇨🇦CA-15.156.171.26-221, server: 15.156.171.26, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true}
-- {name: 🏁RELAY-104.19.45.11-222, server: 104.19.45.11, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🏁RELAY-104.19.45.17-223, server: 104.19.45.17, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
-- {name: 🇺🇸US-38.75.136.21-224, server: 38.75.136.21, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: 🏁RELAY-172.64.166.2-225, server: 172.64.166.2, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: ip12.6016725.xyz}}
-- {name: 🇰🇷KR-146.56.151.232-226, server: ent1.imyourdaddy.top, port: 20983, type: trojan, password: 64f33df2-4f9d-4cf3-bb69-b82b08cf149a, sni: sale.alibaba.com, skip-cert-verify: true}
+- {name: 🇦🇶FASTLY-151.101.64.144-118, server: gov.uk, port: 443, type: vmess, uuid: 77848824-93b7-4b89-ffd0-e91afff406ce, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /77848824, tls: true, ws-headers: {Host: zheshiscp.com}}
+- {name: 🇺🇸US-38.68.134.9-119, server: 38.68.134.9, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+- {name: 🇹🇷TR-202.78.162.5-120, server: 202.78.162.5, port: 443, type: vmess, uuid: 716eded6-2201-4dbd-9d63-1638c9e8e677, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: pendar.onthewifi.com}}
+- {name: 🇺🇸US-38.114.114.46-121, server: 38.114.114.46, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: 🇺🇸US-38.110.1.51-122, server: 38.110.1.51, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: 🇫🇷FR-193.243.147.128-123, server: 193.243.147.128, port: 40368, type: ss, cipher: aes-256-gcm, password: 7BcLdsO1WweoGD0X}
+- {name: 🏁RELAY-104.19.45.47-124, server: 104.19.45.47, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
+- {name: 🇺🇸US-38.114.114.46-125, server: 38.114.114.46, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+- {name: 🇹🇼TW-111.243.66.217-126, server: tw1-vds7.anyhk.co, port: 30443, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
+- {name: 🇨🇳CN-223.111.122.201-127, server: gdgs.tarioblink.me, port: 30002, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
+- {name: 🇨🇳CN-113.31.144.105-128, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
+- {name: 🇨🇳CN-223.111.122.201-129, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
+- {name: 🇨🇳CN-113.31.144.105-130, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
+- {name: 🇨🇳CN-223.111.122.201-131, server: gdgs.tarioblink.me, port: 30001, type: ss, cipher: chacha20-ietf-poly1305, password: 0d43fd02-cb36-4f3c-be19-c9cbed362646}
+- {name: 🏁RELAY-104.21.82.183-133, server: 104.21.82.183, port: 8880, type: vmess, uuid: 5a7021e0-26b4-45d6-b175-fe551601ca97, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server26.beheshtbaneh.com}}
+- {name: 🇨🇳CN-120.238.122.160-134, server: service.ouluyun9803.com, port: 20003, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
+- {name: 🏁RELAY-104.19.45.47-135, server: 104.19.45.47, port: 2082, type: vmess, uuid: 5f3f09ad-89cb-4e94-a7ad-aa8239913555, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: github.com/Alvin9999, tls: false, ws-headers: {Host: ip3.6929198.xyz}}
+- {name: 🏁RELAY-104.21.82.183-136, server: server31.beheshtbaneh.com, port: 8880, type: vmess, uuid: 4154143c-bbba-47a4-9f79-c2ed087cbcc9, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: server31.beheshtbaneh.com}}
+- {name: 🇳🇱NL-185.242.86.156-137, server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
+- {name: 🏁RELAY-172.64.198.249-138, server: 172.64.198.249, port: 2095, type: vmess, uuid: 18d96190-c10f-448f-a82a-2d36df5c3cde, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /github.com/Alvin9999, tls: false, ws-headers: {Host: ip15.6016725.xyz}}
+- {name: 🇨🇳CN-120.238.122.160-139, server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
+- {name: 🇺🇸US-38.114.114.46-140, server: 38.114.114.46, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
